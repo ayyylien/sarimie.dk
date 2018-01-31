@@ -1,0 +1,15 @@
+[submodule "themes/creative-portfolio"]
+	path = themes/creative-portfolio
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+[submodule "themes/odsprey"]
+	path = themes/odsprey
+	url = https://github.com/tomanistor/osprey.git
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/hivickylai/hugo-theme-introduction.git
+[submodule "themes/forty"]
+	path = themes/forty
+	url = https://github.com/MarcusVirg/forty.git
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git
